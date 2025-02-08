@@ -1,5 +1,9 @@
 # CrewAI + LangGraph
-
+If lets say this was my mail that i recieved recently
+![image](https://github.com/user-attachments/assets/09f7f0c2-cf5b-45d1-bcaf-5066ad4b788d)
+lets look at the response from the app:
+![image](https://github.com/user-attachments/assets/aac88f08-c1e4-4cf4-9d4c-71cbf18120fa)
+It automativcally creates a draft
 ## Introduction
 This is an example of how to use the [CrewAI](https://github.com/joaomdmoura/crewai) with LangChain and LangGraph to automate the process of automatically checking emails and creating drafts. CrewAI orchestrates autonomous AI agents, enabling them to collaborate and execute complex tasks efficiently.
 
@@ -18,7 +22,7 @@ This is an example of how to use the [CrewAI](https://github.com/joaomdmoura/cre
 CrewAI is designed to facilitate the collaboration of role-playing AI agents. In this example, these agents work together to give a complete stock analysis and investment recommendation
 
 ## Running the Code
-This example uses GPT-4.
+This example uses GROQ-api.
 
 - **Configure Environment**: Copy ``.env.example` and set up the environment variable
 - **Setup a credentials.json**: Follow the [google instructions](https://developers.google.com/gmail/api/quickstart/python#authorize_credentials_for_a_desktop_application), once you’ve downloaded the file, name it `credentials.json` and add to the root of the project,
