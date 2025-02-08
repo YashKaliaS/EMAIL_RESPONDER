@@ -6,7 +6,7 @@ This is an example of how to use the [CrewAI](https://github.com/joaomdmoura/cre
 ![High level image](./CrewAI-LangGraph.png)
 
 
-By [@joaomdmoura](https://x.com/joaomdmoura)
+
 
 - [CrewAI Framework](#crewai-framework)
 - [Running the code](#running-the-code)
